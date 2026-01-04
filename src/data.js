@@ -257,13 +257,13 @@ export const listProject = [
   {
     id: 6,
     image: Project6,
-    title: "Books Website",
-    subtitle: "Dfaalt Books is a responsive web app built with HTML, CSS...",
+    title: "Dfaalt Code Compiler",
+    subtitle: "Dfaalt Code Compiler is a modern web-based code editor built...",
     fullDescription:
-      "Dfaalt Books is a responsive web app built with HTML, CSS, and JavaScript, integrated with the Google Books API. It allows users to easily search and explore books by title, author, or category, and includes sorting by publication date plus a dark/light mode toggle for better readability. All book data is fetched dynamically in real time, ensuring accurate and updated results. Designed with a clean, responsive UI, Dfaalt Books showcases modern web development techniques and API integration.",
+      "Dfaalt Code Compiler is a modern web-based code editor built with React.js (Vite) and TypeScript, styled using Tailwind CSS v4 and shadcn/ui, and powered by the Monaco Editor for a professional coding experience directly in the browser. It supports multiple languages including JavaScript, TypeScript, Python, C++, Java, and HTML/CSS/JS, with instant in-browser execution for JavaScript and TypeScript, live preview for web languages, and a fully client-side sandbox that ensures privacy with zero server-side code execution. The application features responsive design, keyboard shortcuts, file download support, and a scalable modular architecture, demonstrating strong expertise in modern front-end engineering and readiness for future cloud or backend integration.",
     borderColor: "#10B981",
     gradient: "linear-gradient(180deg, #10B981, #000)",
-    url: "https://dfaalt.github.io/DfaaltBooks/",
+    url: "https://code-compiler-d.vercel.app/",
     dad: "600",
   },
 ];

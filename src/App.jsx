@@ -171,12 +171,12 @@ const App = () => {
                     </h1>
                     <p>Project Finished</p>
                   </div>
-                  <div>
+                  {/* <div>
                     <h1 className="mb-1 text-3xl md:text-4xl">
-                      3<span className="text-sky-500">+</span>
+                      6<span className="text-sky-500">+</span>
                     </h1>
-                    <p>Years of Experience</p>
-                  </div>
+                    <p>Months of Experience</p>
+                  </div> */}
                   <div>
                     <h1 className="mb-1 text-3xl md:text-4xl">
                       3.75<span className="text-sky-500">/4.00</span>

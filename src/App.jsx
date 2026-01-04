@@ -157,7 +157,7 @@ const App = () => {
                 </h2>
 
                 <BlurText
-                  text="I’m Ilham Maulana, a full-stack developer passionate about building modern, high-performance applications with an intuitive user experience. I enjoy working with the latest technologies like Artificial Intelligence, Machine Learning, and cloud-based development, blending creativity with precision to deliver impactful solutions. With over three years of experience and more than 20 completed projects, I’m committed to helping users and businesses grow in the digital era through functional, aesthetic, and scalable digital products."
+                  text="Fresh Graduate of Electrical Engineering at Yogyakarta State University with career interests in Control Systems, Computer Engineering, and Web Development. Throughout my studies, I have gained extensive experience in applying sensors, actuators, and controllers to control and monitor electronic systems, including developing control system projects such as Proportional-Integral-Derivative (PID) and Internet of Things (IoT). Bangkit 2023 Alumni Batch 2 Cloud Computing Cohort, with a focus on cloud computing technology on the Google Cloud Platform. Experienced in developing cloud-based applications and has a high interest in technology."
                   delay={150}
                   animateBy="words"
                   direction="top"

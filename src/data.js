@@ -8,7 +8,7 @@ export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
-import Tools3 from "/assets/tools/nextjs.png";
+// import Tools3 from "/assets/tools/nextjs.png";
 import Tools4 from "/assets/tools/tailwind.png";
 import Tools5 from "/assets/tools/bootstrap.png";
 import Tools6 from "/assets/tools/js.png";
@@ -19,12 +19,15 @@ import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/supabase.png";
 // import Tools12 from "/assets/tools/flask.png";
 import Tools13 from "/assets/tools/firebase.png";
-import Tools14 from "/assets/tools/html.png";
-import Tools15 from "/assets/tools/css.png";
-import Tools16 from "/assets/tools/ts.png";
-import Tools17 from "/assets/tools/php.png";
-import Tools18 from "/assets/tools/vite.png";
-import Tools19 from "/assets/tools/mysql.png";
+import Tools14 from "/assets/tools/arduino.png";
+import Tools15 from "/assets/tools/c++.png";
+import Tools16 from "/assets/tools/python.png";
+import Tools17 from "/assets/tools/html.png";
+import Tools18 from "/assets/tools/css.png";
+import Tools19 from "/assets/tools/ts.png";
+import Tools20 from "/assets/tools/php.png";
+import Tools21 from "/assets/tools/vite.png";
+import Tools22 from "/assets/tools/mysql.png";
 
 export const listTools = [
   {
@@ -121,44 +124,65 @@ export const listTools = [
   {
     id: 14,
     gambar: Tools14,
-    nama: "HTML",
-    ket: "Language",
+    nama: "Arduino IDE",
+    ket: "Code Editor",
     dad: "1400",
   },
   {
     id: 15,
     gambar: Tools15,
-    nama: "CSS",
+    nama: "C++",
     ket: "Language",
     dad: "1500",
   },
   {
     id: 16,
     gambar: Tools16,
-    nama: "TypeScript",
+    nama: "Python",
     ket: "Language",
     dad: "1600",
   },
   {
     id: 17,
     gambar: Tools17,
-    nama: "PHP",
+    nama: "HTML",
     ket: "Language",
     dad: "1700",
   },
   {
     id: 18,
     gambar: Tools18,
-    nama: "Vite",
-    ket: "Framework",
+    nama: "CSS",
+    ket: "Language",
     dad: "1800",
   },
   {
     id: 19,
     gambar: Tools19,
+    nama: "TypeScript",
+    ket: "Language",
+    dad: "1900",
+  },
+  {
+    id: 20,
+    gambar: Tools20,
+    nama: "PHP",
+    ket: "Language",
+    dad: "2000",
+  },
+  {
+    id: 21,
+    gambar: Tools21,
+    nama: "Vite",
+    ket: "Framework",
+    dad: "2100",
+  },
+  {
+    id: 22,
+    gambar: Tools22,
     nama: "MySql",
     ket: "Framework",
-    dad: "1900",
+    dad: "2200",
   },
 ];
 

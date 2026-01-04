@@ -99,7 +99,7 @@ const App = () => {
             <div className="flex items-center gap-2 sm:gap-4">
               <a
                 href="./assets/CV.pdf"
-                download="Faris_Edrik_Prayoga_CV.pdf"
+                download="Ilham Maulana_CV.pdf"
                 className="rounded-full border border-gray-700 bg-[#1a1a1a] p-4 px-6 font-semibold transition-colors hover:bg-[#222]"
               >
                 <ShinyText

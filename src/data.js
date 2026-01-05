@@ -257,7 +257,7 @@ export const listProject = [
   {
     id: 6,
     image: Project6,
-    title: "Dfaalt Code Compiler",
+    title: "Code Compiler With React",
     subtitle: "Dfaalt Code Compiler is a modern web-based code editor built...",
     fullDescription:
       "Dfaalt Code Compiler is a modern web-based code editor built with React.js (Vite) and TypeScript, styled using Tailwind CSS v4 and shadcn/ui, and powered by the Monaco Editor. It supports multiple languages with in-browser execution and live preview, runs entirely on the client for privacy and zero server usage, and features a responsive, scalable architecture that showcases strong modern front-end engineering skills.",

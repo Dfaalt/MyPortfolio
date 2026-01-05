@@ -245,7 +245,7 @@ export const listProject = [
   {
     id: 5,
     image: Project5,
-    title: "ToDO List Website With React",
+    title: "ToDo List Website With React",
     subtitle: "A modern task management app built with React.js (vite)...",
     fullDescription:
       "A modern task management app built with React.js (Vite) and styled using Bootstrap for a clean, responsive, and user-friendly interface. Users can add, edit, complete, or delete tasks in real-time, with instant updates powered by React state management.",
@@ -260,7 +260,7 @@ export const listProject = [
     title: "Dfaalt Code Compiler",
     subtitle: "Dfaalt Code Compiler is a modern web-based code editor built...",
     fullDescription:
-      "Dfaalt Code Compiler is a modern web-based code editor built with React.js (Vite) and TypeScript, styled using Tailwind CSS v4 and shadcn/ui, and powered by the Monaco Editor for a professional coding experience directly in the browser. It supports multiple languages including JavaScript, TypeScript, Python, C++, Java, and HTML/CSS/JS, with instant in-browser execution for JavaScript and TypeScript, live preview for web languages, and a fully client-side sandbox that ensures privacy with zero server-side code execution. The application features responsive design, keyboard shortcuts, file download support, and a scalable modular architecture, demonstrating strong expertise in modern front-end engineering and readiness for future cloud or backend integration.",
+      "Dfaalt Code Compiler is a modern web-based code editor built with React.js (Vite) and TypeScript, styled using Tailwind CSS v4 and shadcn/ui, and powered by the Monaco Editor. It supports multiple languages with in-browser execution and live preview, runs entirely on the client for privacy and zero server usage, and features a responsive, scalable architecture that showcases strong modern front-end engineering skills.",
     borderColor: "#10B981",
     gradient: "linear-gradient(180deg, #10B981, #000)",
     url: "https://code-compiler-d.vercel.app/",

@@ -157,7 +157,7 @@ const App = () => {
                 </h2>
 
                 <BlurText
-                  text="Fresh Graduate of Electrical Engineering at Yogyakarta State University with career interests in Control Systems, Computer Engineering, and Web Development. Throughout my studies, I have gained extensive experience in applying sensors, actuators, and controllers to control and monitor electronic systems, including developing control system projects such as Proportional-Integral-Derivative (PID) and Internet of Things (IoT). Bangkit 2023 Alumni Batch 2 Cloud Computing Cohort, with a focus on cloud computing technology on the Google Cloud Platform. Experienced in developing cloud-based applications and has a high interest in technology."
+                  text="Fresh graduate in Electrical Engineering from Yogyakarta State University with career interests in Control Systems and Computer Engineering. Experienced in the application of sensors, actuators, and microcontrollers for controlling and monitoring electronic systems, including the development of Proportional–Integral–Derivative (PID) control systems and Internet of Things (IoT)–based projects. Alumni of Bangkit Academy 2023 Batch 2, Cloud Computing Learning Path, with a focus on cloud computing and web development. Highly motivated with a strong interest in developing modern, computation-based technologies and systems."
                   delay={150}
                   animateBy="words"
                   direction="top"

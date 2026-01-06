@@ -29,17 +29,6 @@ const App = () => {
   // -------------------------
 
   useEffect(() => {
-    const isReload =
-      performance.getEntriesByType("navigation")[0]?.type === "reload";
-
-    if (isReload) {
-      // Ambil path tanpa hash
-      const baseUrl = window.location.origin + "/portofolio/";
-      window.location.replace(baseUrl);
-    }
-  }, []);
-
-  useEffect(() => {
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
@@ -155,29 +144,14 @@ const App = () => {
                 <h2 className="mb-5 text-3xl font-bold text-white md:text-4xl">
                   About Me
                 </h2>
-                <div className="mb-10 text-base leading-relaxed text-gray-300 md:text-lg">
-                  <p>
-                    Fresh graduate in Electrical Engineering from Yogyakarta
-                    State University with career interests in Control Systems
-                    and Computer Engineering. Experienced in the application of
-                    sensors, actuators, and microcontrollers for controlling and
-                    monitoring electronic systems, including the development of
-                    Proportional–Integral–Derivative (PID) control systems and
-                    Internet of Things (IoT)–based projects. Alumni of Bangkit
-                    Academy 2023 Batch 2, Cloud Computing Learning Path, with a
-                    focus on cloud computing and web development. Highly
-                    motivated with a strong interest in developing modern,
-                    computation-based technologies and systems.
-                  </p>
-                </div>
 
-                {/* <BlurText
+                <BlurText
                   text="Fresh graduate in Electrical Engineering from Yogyakarta State University with career interests in Control Systems and Computer Engineering. Experienced in the application of sensors, actuators, and microcontrollers for controlling and monitoring electronic systems, including the development of Proportional–Integral–Derivative (PID) control systems and Internet of Things (IoT)–based projects. Alumni of Bangkit Academy 2023 Batch 2, Cloud Computing Learning Path, with a focus on cloud computing and web development. Highly motivated with a strong interest in developing modern, computation-based technologies and systems."
                   delay={150}
                   animateBy="words"
                   direction="top"
                   className="mb-10 text-base leading-relaxed text-gray-300 md:text-lg"
-                /> */}
+                />
 
                 <div className="mb-4 flex w-full flex-col items-center gap-y-8 text-center sm:flex-row sm:justify-between sm:gap-y-0 sm:text-left">
                   <div>

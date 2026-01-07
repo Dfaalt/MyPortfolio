@@ -145,7 +145,7 @@ const App = () => {
                   About Me
                 </h2>
 
-                <div className="mb-10 text-justify text-base leading-relaxed text-gray-300 md:text-lg">
+                <div className="mb-10 text-base leading-relaxed text-gray-300 md:text-lg">
                   <p>
                     Fresh graduate in Electrical Engineering from Yogyakarta
                     State University with career interests in Control Systems

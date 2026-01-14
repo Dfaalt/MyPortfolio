@@ -148,16 +148,13 @@ const App = () => {
                 <div className="mb-10 text-base leading-relaxed text-gray-300 md:text-lg">
                   <p>
                     Fresh graduate in Electrical Engineering from Yogyakarta
-                    State University with career interests in Control Systems
-                    and Computer Engineering. Experienced in the application of
-                    sensors, actuators, and microcontrollers for controlling and
-                    monitoring electronic systems, including the development of
-                    Proportional–Integral–Derivative (PID) control systems and
-                    Internet of Things (IoT)–based projects. Alumni of Bangkit
-                    Academy 2023 Batch 2, Cloud Computing Learning Path, with a
-                    focus on cloud computing and web development. Highly
-                    motivated with a strong interest in developing modern,
-                    computation-based technologies and systems.
+                    State University with a focus on Control Systems, Computer
+                    Engineering, and software development. Experienced in
+                    developing microcontroller-based systems, IoT solutions, and
+                    PID control, as well as web and cloud application
+                    development. Alumni Bangkit Academy 2023 Cloud Computing
+                    Learning Path with hands-on experience in implementing
+                    cloud-native applications and web development.
                   </p>
                 </div>
 

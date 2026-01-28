@@ -148,13 +148,15 @@ const App = () => {
                 <div className="mb-10 text-base leading-relaxed text-gray-300 md:text-lg">
                   <p>
                     Fresh graduate in Electrical Engineering from Yogyakarta
-                    State University with a focus on Control Systems, Computer
-                    Engineering, and software development. Experienced in
-                    developing microcontroller-based systems, IoT solutions, and
-                    PID control, as well as web and cloud application
-                    development. Alumni Bangkit Academy 2023 Cloud Computing
-                    Learning Path with hands-on experience in implementing
-                    cloud-native applications and web development.
+                    State University with a focus on Control Systems,
+                    Automation, and Computer Engineering. Experienced in
+                    developing microcontroller-based systems and Internet of
+                    Things (IoT) solutions. I also have hands-on experience in
+                    web development using React.js, integrating frontend
+                    applications with backend APIs and modern web technologies.
+                    Currently seeking opportunities as a Web Developer, IoT
+                    Engineer, Embedded/Hardware Engineer, Control System
+                    Engineer, or Automation Engineer.
                   </p>
                 </div>
 
